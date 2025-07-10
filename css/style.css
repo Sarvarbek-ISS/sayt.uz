@@ -955,9 +955,7 @@ header {
     }
 
     .main__img5 {
-        position: absolute;
-        left: 395px;
-        top: 74px;
+        display: none;
     }
 
     .main__content {
